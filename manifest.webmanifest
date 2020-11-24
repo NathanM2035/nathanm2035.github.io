@@ -52,6 +52,7 @@
 		"src": "./icons/maskable_icon.png",
 		"sizes": "274x274",
 		"type": "image/png"
+		"purpose": "any maskable"
 	}
 	],
 	"start_url": "./index.html",
